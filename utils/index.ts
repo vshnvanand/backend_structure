@@ -1,2 +1,0 @@
-hashPassword(password);
-generateToken(user);
