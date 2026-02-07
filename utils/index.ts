@@ -1,0 +1,2 @@
+hashPassword(password);
+generateToken(user);
